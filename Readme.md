@@ -7,22 +7,21 @@ This repo contains Python solutions to problems I’m solving while learning cor
 
 ## 📂 Folder Structure
  
- DSA/
-├── Basics_maths/
-│ ├── concept1.py
-│ ├── concept2.py
-│ ├── ... (up to concept6.py)
-├── hashing/
-├── patterns/
-│ ├── patern1.py
-│ ├── ... (up to patern8.py)
-├── recursion/
-│ ├── problem1.py
-│ ├── ... (up to problem4.py)
-│ ├── basics.py
-│ ├── input.txt
-│ ├── output.txt
-│ └── run_python_io.bat
+DSA/
+├── basics_maths/ # Basic math concepts
+│ ├── concept1.py # Math concept 1
+│ └── ... (up to concept6.py) # Additional concepts
+├── hashing/ # Hashing problems (empty)
+├── patterns/ # Pattern problems
+│ ├── pattern1.py # Pattern 1
+│ └── ... (up to pattern8.py) # Additional patterns
+└── recursion/ # Recursion problems
+├── basics.py # Recursion fundamentals
+├── problem1.py # Recursion problem 1
+├── ... (up to problem4.py) # Additional problems
+├── input.txt # Test input
+├── output.txt # Test output
+└── run_python_io.bat # Batch runner
 
 
 ---
