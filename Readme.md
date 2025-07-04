@@ -6,8 +6,8 @@ This repo contains Python solutions to problems I’m solving while learning cor
 ---
 
 ## 📂 Folder Structure
-
-DSA/
+ 
+ DSA/
 ├── Basics_maths/
 │ ├── concept1.py
 │ ├── concept2.py
@@ -53,15 +53,24 @@ Copy
 Edit
 python patterns/patern1.py
 python recursion/basics.py
+To run recursion problems with file input/output:
 
+bash
+Copy
+Edit
+recursion/run_python_io.bat
 🎯 Learning Goals
 Practice 3–5 DSA problems per week
+
 Build logic through pattern and recursion problems
+
 Strengthen fundamentals for coding interviews and tech assessments
 
 📌 Notes
 input.txt and output.txt in the recursion/ folder are used for test input/output.
+
 Code is written in Python 3.x, using VS Code editor.
+
 Each problem is saved by concept or topic.
 
 👩‍💻 About Me
