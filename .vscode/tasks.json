@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Python with input/output redirection",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "run_python_io.bat"
+      ],
+      "options": {
+        "cwd": "C:\\Users\\akash\\OneDrive\\Desktop\\DSA"
+      },
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
