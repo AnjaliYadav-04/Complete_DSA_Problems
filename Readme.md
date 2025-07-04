@@ -61,7 +61,7 @@ cd recursion && run_python_io.bat
 ### 🎯 Learning Goals
 - [ ] Practice 3-5 DSA problems per week  
 - [x] Build logic through pattern/recursion practice
-- [xx] Strengthen fundamentals for coding interviews and tech assessments
+- [x] Strengthen fundamentals for coding interviews and tech assessments
 
 📌 Notes
 input.txt and output.txt in the recursion/ folder are used for test input/output.
@@ -73,13 +73,13 @@ Each problem is saved by concept or topic.
 👩‍💻 About Me
 Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms (DSA)** in Python to strengthen my programming and logic-building skills.
 
--🌐 GitHub: AnjaliYadav-04
--📫 Email: anjalisydv@gmail.com
+-🌐 GitHub: [AnjaliYadav-04](https://github.com/AnjaliYadav-04) 
+-📫 Email: [anjalisydv@gmail.com](mailto:anjalisydv@gmail.com)
 
 ⭐ **If you find this repository helpful, please give it a star!**  
-yaml
-Copy
-Edit
+-yaml
+-Copy
+-Edit
 
 ---
 
