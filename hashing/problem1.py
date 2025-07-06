@@ -1,10 +1,13 @@
-def fun(num,a[]):
+def fun(arr,target):
    count=0
-   for i in range(n):
-      if a[i]==number:
+   for num in arr:
+      if num==target:
          count+=1
    return count     
 
 if __name__=="__main__":
-  n=int(input("Enter the number:"))
   
+  arr=list(map(int,input("Enter the number in array separeted by the space:").split()))
+  target=int(input("Enter the number:"))
+  result=fun(arr,target)
+  print(f"{target} appears {result} times")
