@@ -42,12 +42,11 @@ DSA/
 Ensure you have **Python 3** installed.  
 From the terminal (inside the `DSA/` folder), run:
 
-```bash
 python folder_name/filename.py
-```
+
 
 ### ▶️ Example Commands
-```bash
+
 # Patterns
 python patterns/patern1.py
 
@@ -76,9 +75,7 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 -📫 Email: [anjalisydv@gmail.com](mailto:anjalisydv@gmail.com)
 
 ⭐ **If you find this repository helpful, please give it a star!**  
--yaml
--Copy
--Edit
+
 
 ---
 
@@ -88,3 +85,4 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
