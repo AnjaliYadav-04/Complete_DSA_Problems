@@ -7,7 +7,7 @@ This repo contains Python solutions to problems I’m solving while learning cor
 
 ## 📂 Folder Structure
  
-DSA/
+DSA Questions
 ├── basics_maths/ # Basic math concepts WITH EXAMPLE
 │ ├── concept1.py # Math concept 1
 │ └── ... (up to concept6.py) # Additional concepts
@@ -85,5 +85,6 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
 
 
