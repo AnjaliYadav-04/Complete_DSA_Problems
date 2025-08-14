@@ -8,7 +8,7 @@ This repo contains Python solutions to problems I’m solving while learning cor
 ## 📂 Folder Structure
  
 DSA/
-├── basics_maths/ # Basic math concepts
+├── basics_maths/ # Basic math concepts WITH EXAMPLE
 │ ├── concept1.py # Math concept 1
 │ └── ... (up to concept6.py) # Additional concepts
 ├── hashing/ # Hashing problems (empty)
@@ -42,12 +42,11 @@ DSA/
 Ensure you have **Python 3** installed.  
 From the terminal (inside the `DSA/` folder), run:
 
-```bash
 python folder_name/filename.py
-```
+
 
 ### ▶️ Example Commands
-```bash
+
 # Patterns
 python patterns/patern1.py
 
@@ -76,9 +75,7 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 -📫 Email: [anjalisydv@gmail.com](mailto:anjalisydv@gmail.com)
 
 ⭐ **If you find this repository helpful, please give it a star!**  
--yaml
--Copy
--Edit
+
 
 ---
 
@@ -88,3 +85,5 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
+
