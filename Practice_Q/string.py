@@ -20,6 +20,7 @@ if __name__ == "__main__":
         "bbbbb",
         "pwwkew",
         "",
+        "",
         "abcdefg"
     ]
 
