@@ -57,7 +57,7 @@ python recursion/basics.py
 
 # I/O Batch Script (Windows)
 cd recursion && run_python_io.bat
-```
+
 ### 🎯 Learning Goals
 - [ ] Practice 3-5 DSA problems per week  
 - [x] Build logic through pattern/recursion practice
@@ -87,6 +87,7 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
 
 
 
