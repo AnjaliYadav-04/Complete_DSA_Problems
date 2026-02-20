@@ -57,6 +57,7 @@ python recursion/basics.py
 
 # Hashing
 # Trees
+# Practice_QUestion
 
 
 # I/O Batch Script (Windows)
@@ -91,6 +92,7 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
 
 
 
