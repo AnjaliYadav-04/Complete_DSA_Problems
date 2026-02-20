@@ -55,6 +55,10 @@ python patterns/patern1.py
 # Recursion
 python recursion/basics.py
 
+# Hashing
+# Trees
+
+
 # I/O Batch Script (Windows)
 cd recursion && run_python_io.bat
 
@@ -87,6 +91,7 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
 
 
 
