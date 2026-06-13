@@ -28,12 +28,14 @@ DSA Questions
 
 ## ✅ Topics Covered (So Far)
 
-- 🔢 **Basic Math Concepts**
-- 🧩 **Pattern Printing**
-- 🔐 **Hashing**
-- 🔄 **Recursion**
-
-📌 *More topics (Arrays, Strings, Trees, DP) will be added soon.*
+- **Basic Math Concepts**
+- **Pattern Printing**
+- **Hashing**
+- **Recursion**
+- **Array**
+- **Trees**
+- **Strings**
+📌 *More topics (Graph, DP) will be added soon.*
 
 ---
 
@@ -53,9 +55,14 @@ python patterns/patern1.py
 # Recursion
 python recursion/basics.py
 
+# Hashing
+# Trees
+# Practice_QUestion
+
+
 # I/O Batch Script (Windows)
 cd recursion && run_python_io.bat
-```
+
 ### 🎯 Learning Goals
 - [ ] Practice 3-5 DSA problems per week  
 - [x] Build logic through pattern/recursion practice
@@ -85,6 +92,10 @@ Hi! I’m **Anjali Yadav**, currently learning **Data Structures and Algorithms 
 - 📅 A study roadmap
 
 **Happy coding!** 🧠💻
+
+
+
+
 
 
 
